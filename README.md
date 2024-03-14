@@ -5,9 +5,9 @@
 
 ## Task
 
-**Chosen Task:**
-Neural Machine Translation (NMT) from Bengali to English Language
-**Why I choose it?**
+**Chosen Task:**<br>
+Neural Machine Translation (NMT) from Bengali to English Language<br><br>
+**Why I choose it?**<br>
 I am a native Bengali speaker and I have a good understanding of the English language. I have also worked on NMT before. So, I think it will be a good choice for me to work on this task.
 
 ## Dataset
